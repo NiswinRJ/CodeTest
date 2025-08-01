@@ -1,0 +1,6 @@
+@UserBehaviourService_HostAddress = http://localhost:5025
+
+GET {{UserBehaviourService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

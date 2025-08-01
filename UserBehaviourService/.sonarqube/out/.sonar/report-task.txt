@@ -1,0 +1,6 @@
+projectKey=API
+serverUrl=http://127.0.0.1:9000
+serverVersion=25.1.0.102122
+dashboardUrl=http://127.0.0.1:9000/dashboard?id=API
+ceTaskId=d4e10b9f-e26a-485d-aaa2-ad28b0304a25
+ceTaskUrl=http://127.0.0.1:9000/api/ce/task?id=d4e10b9f-e26a-485d-aaa2-ad28b0304a25

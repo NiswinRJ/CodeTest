@@ -1,0 +1,12 @@
+b
+WD:\UserBehaviourService\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8X
+MD:\UserBehaviourService\obj\Debug\net8.0\UserBehaviourService.AssemblyInfo.csutf-8k
+`D:\UserBehaviourService\obj\Debug\net8.0\UserBehaviourService.MvcApplicationPartsAssemblyInfo.csutf-8Z
+OD:\UserBehaviourService\obj\Debug\net8.0\UserBehaviourService.GlobalUsings.g.csutf-8+
+"D:\UserBehaviourService\Program.csutf-8/
+&D:\UserBehaviourService\Models\User.csutf-8J
+?D:\UserBehaviourService\Migrations\AppDbContextModelSnapshot.csutf-8T
+ID:\UserBehaviourService\Migrations\20250710052857_FirstCreate.Designer.csutf-8I
+@D:\UserBehaviourService\Migrations\20250710052857_FirstCreate.csutf-85
+,D:\UserBehaviourService\Data\AppDbContext.csutf-8>
+5D:\UserBehaviourService\Controllers\UserController.csutf-8
