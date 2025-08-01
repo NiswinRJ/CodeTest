@@ -18,7 +18,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/UserBehaviourService/Models/User.cs",
+                "uri": "file:///D:/CodeReview/CodeTest/UserBehaviourService/Models/User.cs",
                 "region": {
                   "startLine": 8,
                   "startColumn": 23,
@@ -31,7 +31,7 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///D:/UserBehaviourService/Models/User.cs",
+                "uri": "file:///D:/CodeReview/CodeTest/UserBehaviourService/Models/User.cs",
                 "region": {
                   "startLine": 8,
                   "startColumn": 23,
@@ -52,7 +52,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/UserBehaviourService/Models/User.cs",
+                "uri": "file:///D:/CodeReview/CodeTest/UserBehaviourService/Models/User.cs",
                 "region": {
                   "startLine": 9,
                   "startColumn": 23,
@@ -65,7 +65,7 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///D:/UserBehaviourService/Models/User.cs",
+                "uri": "file:///D:/CodeReview/CodeTest/UserBehaviourService/Models/User.cs",
                 "region": {
                   "startLine": 9,
                   "startColumn": 23,
@@ -86,7 +86,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/UserBehaviourService/Models/User.cs",
+                "uri": "file:///D:/CodeReview/CodeTest/UserBehaviourService/Models/User.cs",
                 "region": {
                   "startLine": 10,
                   "startColumn": 23,
@@ -99,7 +99,7 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///D:/UserBehaviourService/Models/User.cs",
+                "uri": "file:///D:/CodeReview/CodeTest/UserBehaviourService/Models/User.cs",
                 "region": {
                   "startLine": 10,
                   "startColumn": 23,
@@ -123,7 +123,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/UserBehaviourService/Data/AppDbContext.cs",
+                "uri": "file:///D:/CodeReview/CodeTest/UserBehaviourService/Data/AppDbContext.cs",
                 "region": {
                   "startLine": 8,
                   "startColumn": 16,
@@ -136,7 +136,7 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///D:/UserBehaviourService/Data/AppDbContext.cs",
+                "uri": "file:///D:/CodeReview/CodeTest/UserBehaviourService/Data/AppDbContext.cs",
                 "region": {
                   "startLine": 13,
                   "startColumn": 28,
@@ -157,7 +157,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/UserBehaviourService/appsettings.json",
+                "uri": "file:///D:/CodeReview/CodeTest/UserBehaviourService/appsettings.json",
                 "region": {
                   "startLine": 11,
                   "startColumn": 27,
@@ -178,7 +178,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/UserBehaviourService/Migrations/20250710052857_FirstCreate.cs",
+                "uri": "file:///D:/CodeReview/CodeTest/UserBehaviourService/Migrations/20250710052857_FirstCreate.cs",
                 "region": {
                   "startLine": 16,
                   "startColumn": 29,
@@ -191,7 +191,7 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///D:/UserBehaviourService/Migrations/20250710052857_FirstCreate.cs",
+                "uri": "file:///D:/CodeReview/CodeTest/UserBehaviourService/Migrations/20250710052857_FirstCreate.cs",
                 "region": {
                   "startLine": 25,
                   "startColumn": 37,
@@ -202,7 +202,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///D:/UserBehaviourService/Migrations/20250710052857_FirstCreate.cs",
+                "uri": "file:///D:/CodeReview/CodeTest/UserBehaviourService/Migrations/20250710052857_FirstCreate.cs",
                 "region": {
                   "startLine": 27,
                   "startColumn": 37,
@@ -213,7 +213,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///D:/UserBehaviourService/Migrations/20250710052857_FirstCreate.cs",
+                "uri": "file:///D:/CodeReview/CodeTest/UserBehaviourService/Migrations/20250710052857_FirstCreate.cs",
                 "region": {
                   "startLine": 29,
                   "startColumn": 37,
@@ -224,7 +224,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///D:/UserBehaviourService/Migrations/20250710052857_FirstCreate.cs",
+                "uri": "file:///D:/CodeReview/CodeTest/UserBehaviourService/Migrations/20250710052857_FirstCreate.cs",
                 "region": {
                   "startLine": 36,
                   "startColumn": 29,
@@ -251,7 +251,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/UserBehaviourService/Migrations/20250710052857_FirstCreate.cs",
+                "uri": "file:///D:/CodeReview/CodeTest/UserBehaviourService/Migrations/20250710052857_FirstCreate.cs",
                 "region": {
                   "startLine": 16,
                   "startColumn": 46,
@@ -264,7 +264,7 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///D:/UserBehaviourService/Migrations/20250710052857_FirstCreate.cs",
+                "uri": "file:///D:/CodeReview/CodeTest/UserBehaviourService/Migrations/20250710052857_FirstCreate.cs",
                 "region": {
                   "startLine": 25,
                   "startColumn": 54,
@@ -275,7 +275,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///D:/UserBehaviourService/Migrations/20250710052857_FirstCreate.cs",
+                "uri": "file:///D:/CodeReview/CodeTest/UserBehaviourService/Migrations/20250710052857_FirstCreate.cs",
                 "region": {
                   "startLine": 27,
                   "startColumn": 54,
@@ -286,7 +286,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///D:/UserBehaviourService/Migrations/20250710052857_FirstCreate.cs",
+                "uri": "file:///D:/CodeReview/CodeTest/UserBehaviourService/Migrations/20250710052857_FirstCreate.cs",
                 "region": {
                   "startLine": 29,
                   "startColumn": 54,
@@ -297,7 +297,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///D:/UserBehaviourService/Migrations/20250710052857_FirstCreate.cs",
+                "uri": "file:///D:/CodeReview/CodeTest/UserBehaviourService/Migrations/20250710052857_FirstCreate.cs",
                 "region": {
                   "startLine": 36,
                   "startColumn": 46,
@@ -324,7 +324,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/UserBehaviourService/Program.cs",
+                "uri": "file:///D:/CodeReview/CodeTest/UserBehaviourService/Program.cs",
                 "region": {
                   "startLine": 47,
                   "startColumn": 1,
@@ -345,7 +345,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/UserBehaviourService/Models/User.cs",
+                "uri": "file:///D:/CodeReview/CodeTest/UserBehaviourService/Models/User.cs",
                 "region": {
                   "startLine": 7,
                   "startColumn": 20,
@@ -366,7 +366,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/UserBehaviourService/Models/User.cs",
+                "uri": "file:///D:/CodeReview/CodeTest/UserBehaviourService/Models/User.cs",
                 "region": {
                   "startLine": 11,
                   "startColumn": 25,

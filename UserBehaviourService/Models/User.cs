@@ -1,14 +1,21 @@
+using System.ComponentModel.DataAnnotations;
+using System.Text.Json.Serialization;
 using UserBehaviourAPI;
 
 namespace UserBehaviourAPI.Models
 {
     public class User
     {
+        [Required]
         public int Id { get; set; }
-        public string Name { get; set; } 
-        public string Email { get; set; } 
-        public string ContentType { get; set; } 
-        public DateTime JoiningDate { get; set; }
+        [Required]
+        public string Name { get; set; } = string.Empty;
+        [Required]
+        public string Email { get; set; } =string.Empty;
+        [Required]
+        public string ContentType { get; set; } =string.Empty;
+        [Required]
+        [JsonRequired] public DateTime JoiningDate { get; set; }
     }
 }
 
